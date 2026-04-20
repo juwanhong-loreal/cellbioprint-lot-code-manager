@@ -3,7 +3,7 @@ import { useState, useEffect, useCallback, useRef } from "react";
 // ─────────────────────────────────────────────────────────────
 // CONFIG — fill these in before deploying
 // ─────────────────────────────────────────────────────────────
-const GH_OWNER  = "oa-ri-augmentedbeauty";   // e.g. "loreal-ushub"
+const GH_OWNER  = "juwanhong-loreal";   // e.g. "loreal-ushub"
 const GH_REPO   = "cellbioprint-lot-code-manager";          
 const GH_FILE   = "lot_codes.json";          // path in repo
 const GH_BRANCH = "main";
